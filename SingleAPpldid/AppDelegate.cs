@@ -32,7 +32,7 @@ namespace SingleAPpldid
 		public override void DidEnterBackground (UIApplication application)
 		{
 		}
-		
+		//APPLE
 		// This method is called as part of the transiton from background to active state.
 		public override void WillEnterForeground (UIApplication application)
 		{
