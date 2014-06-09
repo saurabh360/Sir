@@ -41,6 +41,7 @@ namespace SingleAPpldid
 		// This method is called when the application is about to terminate. Save data, if needed.
 		public override void WillTerminate (UIApplication application)
 		{
+			//Testddf
 		}
 	}
 }
